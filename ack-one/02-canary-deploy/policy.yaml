@@ -2,7 +2,6 @@ apiVersion: core.oam.dev/v1alpha1
 kind: Policy
 metadata:
   name: cluster-test
-  namespace: demo
 type: topology
 properties:
   clusters: ["<clusterid1>"]
@@ -11,7 +10,6 @@ apiVersion: core.oam.dev/v1alpha1
 kind: Policy
 metadata:
   name: cluster-prod
-  namespace: demo
 type: topology
 properties:
   clusters: ["<clusterid2>"]

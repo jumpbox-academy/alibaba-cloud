@@ -4,7 +4,6 @@ metadata:
   labels:
     app: demo
   name: demo
-  namespace: demo
 spec:
   replicas: 1
   selector:
@@ -16,5 +15,5 @@ spec:
         app: demo
     spec:
       containers:
-      - image: registry.cn-hangzhou.aliyuncs.com/acs/rollouts-demo:red
+      - image: nginx:1.23.2
         name: demo
