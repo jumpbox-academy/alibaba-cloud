@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: demo-2
-  namespace: demo-2
   labels:
     app: demo-2
 spec:
@@ -26,7 +25,7 @@ spec:
     spec:
       containers:
       - name: demo-2
-        image: registry.cn-hangzhou.aliyuncs.com/acs/rollouts-demo-2:red
+        image: nginx:1.22.1
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
@@ -49,7 +48,6 @@ apiVersion: v1
 kind: Service
 metadata:
   name: demo-2-svc
-  namespace: demo-2
 spec:
   selector:
     app: demo-2
@@ -62,7 +60,6 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: demo-2
-  namespace: demo-2
   labels:
     app: demo-2
 spec:
