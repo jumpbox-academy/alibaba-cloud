@@ -1,7 +1,21 @@
 # Alibaba Cloud
 ![welcome](https://github.com/jumpbox-academy/alibaba-cloud/blob/main/ack-one/assets/banner1.png?raw=true)
+
 ## Slide
 - ACK ONE: [Link](https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/assets/ack-one.pdf)
+
+## Tools
+- Subnet/vSwitch Calculator: [Link](https://jodies.de/ipcalc)
+- AMC Kubernetes Plugins: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/use-amc#task-2172705)
+
+## Example
+- Simple Deploy: [Link](https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/01-simple-deploy)
+- Canary Deploy: [Link](https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/02-canary-deploy)
+
+## Documents
+- ACK One Overview: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/ack-one-overview)
+- Proxy Selection: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/proxyhttps://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/proxy)
+- 
 
 ## Speaker
 - [JoJo] Saritrat 
