@@ -4,6 +4,10 @@
 ## Youtube
 - Coming Soon....
 
+## Blog
+- Medium: Coming Soon
+- Dev.to: Coming Soon
+
 ## Slide
 - ACK ONE: [Link](https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/assets/ack-one.pdf)
 
