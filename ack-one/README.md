@@ -1,5 +1,5 @@
 # Alibaba Cloud
-![welcome]((https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/assets/banner1.png?raw=true)
+![welcome](https://github.com/jumpbox-academy/alibaba-cloud/blob/main/ack-one/assets/banner1.png?raw=true)
 ## Slide
 - ACK ONE: [Link](https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/assets/ack-one.pdf)
 
@@ -34,4 +34,4 @@ Alibaba Cloud Day Thailand: Managing Multi-Cloud Container with ACK One
 |3:00pm - 3:45pm | Alibaba Cloud ACK One Introduction & Demo by Saritrat Jirakulphondchai, CTO at Jumpbox Co., Ltd and Alibaba Cloud MVP|
 |3:45pm - 4:00pm | Q&A and Networking|
 
-![thanks]((https://github.com/jumpbox-academy/alibaba-cloud/tree/main/ack-one/assets/thanks.png?raw=true)
+![thanks](https://github.com/jumpbox-academy/alibaba-cloud/blob/main/ack-one/assets/thanks.png?raw=true)
