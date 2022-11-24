@@ -14,8 +14,8 @@
 
 ## Documents
 - ACK One Overview: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/ack-one-overview)
-- Proxy Selection: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/proxyhttps://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/proxy)
-- 
+- Proxy Selection: [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/proxy)
+- Canary Deploy [Link](https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/grayscale-distribution-between-application-clusters)
 
 ## Speaker
 - [JoJo] Saritrat 
